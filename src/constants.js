@@ -1,0 +1,1 @@
+export const MovieApiKey = 'd299e4a6e383db85a6cecd282fc8d154';
